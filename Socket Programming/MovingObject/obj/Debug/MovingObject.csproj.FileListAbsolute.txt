@@ -1,0 +1,11 @@
+C:\Users\bluez\Documents\GitHub\NetworkProgramming\MovingObject\bin\Debug\MovingObject.exe.config
+C:\Users\bluez\Documents\GitHub\NetworkProgramming\MovingObject\bin\Debug\MovingObject.exe
+C:\Users\bluez\Documents\GitHub\NetworkProgramming\MovingObject\bin\Debug\MovingObject.pdb
+C:\Users\bluez\Documents\GitHub\NetworkProgramming\MovingObject\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+C:\Users\bluez\Documents\GitHub\NetworkProgramming\MovingObject\obj\Debug\MovingObject.Form1.resources
+C:\Users\bluez\Documents\GitHub\NetworkProgramming\MovingObject\obj\Debug\MovingObject.Properties.Resources.resources
+C:\Users\bluez\Documents\GitHub\NetworkProgramming\MovingObject\obj\Debug\MovingObject.csproj.GenerateResource.cache
+C:\Users\bluez\Documents\GitHub\NetworkProgramming\MovingObject\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+C:\Users\bluez\Documents\GitHub\NetworkProgramming\MovingObject\obj\Debug\MovingObject.exe
+C:\Users\bluez\Documents\GitHub\NetworkProgramming\MovingObject\obj\Debug\MovingObject.pdb
+C:\Users\bluez\Documents\GitHub\NetworkProgramming\MovingObject\obj\Debug\MovingObject.exe.config
